@@ -1,0 +1,48 @@
+# vim: ts=23
+# 2017 fields
+Album	string
+Album Artist	string
+Artist	string
+Artwork Count	integer
+Bit Rate	integer
+Comments	string
+Compilation	boolean
+Composer	string
+Date Added	date
+Date Modified	date
+Disabled	boolean
+Disc Count	integer
+Disc Number	integer
+File Folder Count	integer
+File Type	integer
+Genre	string
+Grouping	string
+Kind	string
+Library Folder Count	integer
+Location	string
+Name	string
+Part Of Gapless Album	boolean
+Persistent ID	string
+Play Count	integer
+Play Date	integer
+Play Date UTC	date
+Release Date	date
+Sample Rate	integer
+Size	integer
+Skip Count	integer
+Skip Date	date
+Sort Album	string
+Sort Album Artist	string
+Sort Artist	string
+Sort Composer	string
+Sort Name	string
+Start Time	integer
+Stop Time	integer
+Total Time	integer
+Track Count	integer
+Track ID	integer
+Track Number	integer
+Track Type	string
+Volume Adjustment	integer
+Work	string
+Year	integer

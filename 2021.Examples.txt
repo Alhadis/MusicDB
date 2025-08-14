@@ -1,0 +1,34 @@
+# vim: ts=32
+
+2021
+===================================================================
+Album	"Nightmarecatcher"
+Album Artist	"Ævangelist"
+Artist	"Ævangelist"
+Artwork Count	1
+Bit Rate	320
+Composer	"Matron Thorn"
+Date Added	2020-12-03T04:26:25Z
+Date Modified	2020-12-03T04:33:33Z
+Disc Count	1
+Disc Number	1
+File Folder Count	-1
+Genre	"Death Metal"
+Grouping	"Blackened Death"
+Kind	"MPEG audio file"
+Library Folder Count	-1
+Location	"file:///Users/Alhadis/Music/%C3%86vangelist/Nightmarecatcher/02%20II%EA%9E%89%20Ceremony%20of%20Decomposition%20of%20Bodies.mp3"
+Name	"II: Ceremony of Decomposition of Bodies"
+Normalization	10880
+Persistent ID	"FF53670F5085AB21"
+Play Count	1
+Play Date	3690073026
+Play Date UTC	2020-12-05T17:17:06Z
+Sample Rate	44100
+Size	30739137
+Total Time	759066
+Track Count	3
+Track ID	1200
+Track Number	2
+Track Type	"File"
+Year	2020
